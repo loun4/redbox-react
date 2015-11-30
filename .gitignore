@@ -7,6 +7,3 @@ tmp
 .DS_Store
 
 # git specific
-
-dist
-lib
